@@ -1,0 +1,434 @@
+catalog,control_id,title
+800-53,ac-1,Policy and Procedures
+800-53,ac-2,Account Management
+800-53,ac-3,Access Enforcement
+800-53,ac-4,Information Flow Enforcement
+800-53,ac-5,Separation of Duties
+800-53,ac-6,Least Privilege
+800-53,ac-7,Unsuccessful Logon Attempts
+800-53,ac-8,System Use Notification
+800-53,ac-9,Previous Logon Notification
+800-53,ac-10,Concurrent Session Control
+800-53,ac-11,Device Lock
+800-53,ac-12,Session Termination
+800-53,ac-13,Supervision and Review — Access Control
+800-53,ac-14,Permitted Actions Without Identification or Authentication
+800-53,ac-15,Automated Marking
+800-53,ac-16,Security and Privacy Attributes
+800-53,ac-17,Remote Access
+800-53,ac-18,Wireless Access
+800-53,ac-19,Access Control for Mobile Devices
+800-53,ac-20,Use of External Systems
+800-53,ac-21,Information Sharing
+800-53,ac-22,Publicly Accessible Content
+800-53,ac-23,Data Mining Protection
+800-53,ac-24,Access Control Decisions
+800-53,ac-25,Reference Monitor
+800-53,at-1,Policy and Procedures
+800-53,at-2,Literacy Training and Awareness
+800-53,at-3,Role-based Training
+800-53,at-4,Training Records
+800-53,at-5,Contacts with Security Groups and Associations
+800-53,at-6,Training Feedback
+800-53,au-1,Policy and Procedures
+800-53,au-2,Event Logging
+800-53,au-3,Content of Audit Records
+800-53,au-4,Audit Log Storage Capacity
+800-53,au-5,Response to Audit Logging Process Failures
+800-53,au-6,"Audit Record Review, Analysis, and Reporting"
+800-53,au-7,Audit Record Reduction and Report Generation
+800-53,au-8,Time Stamps
+800-53,au-9,Protection of Audit Information
+800-53,au-10,Non-repudiation
+800-53,au-11,Audit Record Retention
+800-53,au-12,Audit Record Generation
+800-53,au-13,Monitoring for Information Disclosure
+800-53,au-14,Session Audit
+800-53,au-15,Alternate Audit Logging Capability
+800-53,au-16,Cross-organizational Audit Logging
+800-53,ca-1,Policy and Procedures
+800-53,ca-2,Control Assessments
+800-53,ca-3,Information Exchange
+800-53,ca-4,Security Certification
+800-53,ca-5,Plan of Action and Milestones
+800-53,ca-6,Authorization
+800-53,ca-7,Continuous Monitoring
+800-53,ca-8,Penetration Testing
+800-53,ca-9,Internal System Connections
+800-53,cm-1,Policy and Procedures
+800-53,cm-2,Baseline Configuration
+800-53,cm-3,Configuration Change Control
+800-53,cm-4,Impact Analyses
+800-53,cm-5,Access Restrictions for Change
+800-53,cm-6,Configuration Settings
+800-53,cm-7,Least Functionality
+800-53,cm-8,System Component Inventory
+800-53,cm-9,Configuration Management Plan
+800-53,cm-10,Software Usage Restrictions
+800-53,cm-11,User-installed Software
+800-53,cm-12,Information Location
+800-53,cm-13,Data Action Mapping
+800-53,cm-14,Signed Components
+800-53,cp-1,Policy and Procedures
+800-53,cp-2,Contingency Plan
+800-53,cp-3,Contingency Training
+800-53,cp-4,Contingency Plan Testing
+800-53,cp-5,Contingency Plan Update
+800-53,cp-6,Alternate Storage Site
+800-53,cp-7,Alternate Processing Site
+800-53,cp-8,Telecommunications Services
+800-53,cp-9,System Backup
+800-53,cp-10,System Recovery and Reconstitution
+800-53,cp-11,Alternate Communications Protocols
+800-53,cp-12,Safe Mode
+800-53,cp-13,Alternative Security Mechanisms
+800-53,ia-1,Policy and Procedures
+800-53,ia-2,Identification and Authentication (Organizational Users)
+800-53,ia-3,Device Identification and Authentication
+800-53,ia-4,Identifier Management
+800-53,ia-5,Authenticator Management
+800-53,ia-6,Authentication Feedback
+800-53,ia-7,Cryptographic Module Authentication
+800-53,ia-8,Identification and Authentication (Non-organizational Users)
+800-53,ia-9,Service Identification and Authentication
+800-53,ia-10,Adaptive Authentication
+800-53,ia-11,Re-authentication
+800-53,ia-12,Identity Proofing
+800-53,ia-13,Identity Providers and Authorization Servers
+800-53,ir-1,Policy and Procedures
+800-53,ir-2,Incident Response Training
+800-53,ir-3,Incident Response Testing
+800-53,ir-4,Incident Handling
+800-53,ir-5,Incident Monitoring
+800-53,ir-6,Incident Reporting
+800-53,ir-7,Incident Response Assistance
+800-53,ir-8,Incident Response Plan
+800-53,ir-9,Information Spillage Response
+800-53,ir-10,Integrated Information Security Analysis Team
+800-53,ma-1,Policy and Procedures
+800-53,ma-2,Controlled Maintenance
+800-53,ma-3,Maintenance Tools
+800-53,ma-4,Nonlocal Maintenance
+800-53,ma-5,Maintenance Personnel
+800-53,ma-6,Timely Maintenance
+800-53,ma-7,Field Maintenance
+800-53,mp-1,Policy and Procedures
+800-53,mp-2,Media Access
+800-53,mp-3,Media Marking
+800-53,mp-4,Media Storage
+800-53,mp-5,Media Transport
+800-53,mp-6,Media Sanitization
+800-53,mp-7,Media Use
+800-53,mp-8,Media Downgrading
+800-53,pe-1,Policy and Procedures
+800-53,pe-2,Physical Access Authorizations
+800-53,pe-3,Physical Access Control
+800-53,pe-4,Access Control for Transmission
+800-53,pe-5,Access Control for Output Devices
+800-53,pe-6,Monitoring Physical Access
+800-53,pe-7,Visitor Control
+800-53,pe-8,Visitor Access Records
+800-53,pe-9,Power Equipment and Cabling
+800-53,pe-10,Emergency Shutoff
+800-53,pe-11,Emergency Power
+800-53,pe-12,Emergency Lighting
+800-53,pe-13,Fire Protection
+800-53,pe-14,Environmental Controls
+800-53,pe-15,Water Damage Protection
+800-53,pe-16,Delivery and Removal
+800-53,pe-17,Alternate Work Site
+800-53,pe-18,Location of System Components
+800-53,pe-19,Information Leakage
+800-53,pe-20,Asset Monitoring and Tracking
+800-53,pe-21,Electromagnetic Pulse Protection
+800-53,pe-22,Component Marking
+800-53,pe-23,Facility Location
+800-53,pl-1,Policy and Procedures
+800-53,pl-2,System Security and Privacy Plans
+800-53,pl-3,System Security Plan Update
+800-53,pl-4,Rules of Behavior
+800-53,pl-5,Privacy Impact Assessment
+800-53,pl-6,Security-related Activity Planning
+800-53,pl-7,Concept of Operations
+800-53,pl-8,Security and Privacy Architectures
+800-53,pl-9,Central Management
+800-53,pl-10,Baseline Selection
+800-53,pl-11,Baseline Tailoring
+800-53,pm-1,Information Security Program Plan
+800-53,pm-2,Information Security Program Leadership Role
+800-53,pm-3,Information Security and Privacy Resources
+800-53,pm-4,Plan of Action and Milestones Process
+800-53,pm-5,System Inventory
+800-53,pm-6,Measures of Performance
+800-53,pm-7,Enterprise Architecture
+800-53,pm-8,Critical Infrastructure Plan
+800-53,pm-9,Risk Management Strategy
+800-53,pm-10,Authorization Process
+800-53,pm-11,Mission and Business Process Definition
+800-53,pm-12,Insider Threat Program
+800-53,pm-13,Security and Privacy Workforce
+800-53,pm-14,"Testing, Training, and Monitoring"
+800-53,pm-15,Security and Privacy Groups and Associations
+800-53,pm-16,Threat Awareness Program
+800-53,pm-17,Protecting Controlled Unclassified Information on External Systems
+800-53,pm-18,Privacy Program Plan
+800-53,pm-19,Privacy Program Leadership Role
+800-53,pm-20,Dissemination of Privacy Program Information
+800-53,pm-21,Accounting of Disclosures
+800-53,pm-22,Personally Identifiable Information Quality Management
+800-53,pm-23,Data Governance Body
+800-53,pm-24,Data Integrity Board
+800-53,pm-25,"Minimization of Personally Identifiable Information Used in Testing, Training, and Research"
+800-53,pm-26,Complaint Management
+800-53,pm-27,Privacy Reporting
+800-53,pm-28,Risk Framing
+800-53,pm-29,Risk Management Program Leadership Roles
+800-53,pm-30,Supply Chain Risk Management Strategy
+800-53,pm-31,Continuous Monitoring Strategy
+800-53,pm-32,Purposing
+800-53,ps-1,Policy and Procedures
+800-53,ps-2,Position Risk Designation
+800-53,ps-3,Personnel Screening
+800-53,ps-4,Personnel Termination
+800-53,ps-5,Personnel Transfer
+800-53,ps-6,Access Agreements
+800-53,ps-7,External Personnel Security
+800-53,ps-8,Personnel Sanctions
+800-53,ps-9,Position Descriptions
+800-53,pt-1,Policy and Procedures
+800-53,pt-2,Authority to Process Personally Identifiable Information
+800-53,pt-3,Personally Identifiable Information Processing Purposes
+800-53,pt-4,Consent
+800-53,pt-5,Privacy Notice
+800-53,pt-6,System of Records Notice
+800-53,pt-7,Specific Categories of Personally Identifiable Information
+800-53,pt-8,Computer Matching Requirements
+800-53,ra-1,Policy and Procedures
+800-53,ra-2,Security Categorization
+800-53,ra-3,Risk Assessment
+800-53,ra-4,Risk Assessment Update
+800-53,ra-5,Vulnerability Monitoring and Scanning
+800-53,ra-6,Technical Surveillance Countermeasures Survey
+800-53,ra-7,Risk Response
+800-53,ra-8,Privacy Impact Assessments
+800-53,ra-9,Criticality Analysis
+800-53,ra-10,Threat Hunting
+800-53,sa-1,Policy and Procedures
+800-53,sa-2,Allocation of Resources
+800-53,sa-3,System Development Life Cycle
+800-53,sa-4,Acquisition Process
+800-53,sa-5,System Documentation
+800-53,sa-6,Software Usage Restrictions
+800-53,sa-7,User-installed Software
+800-53,sa-8,Security and Privacy Engineering Principles
+800-53,sa-9,External System Services
+800-53,sa-10,Developer Configuration Management
+800-53,sa-11,Developer Testing and Evaluation
+800-53,sa-12,Supply Chain Protection
+800-53,sa-13,Trustworthiness
+800-53,sa-14,Criticality Analysis
+800-53,sa-15,"Development Process, Standards, and Tools"
+800-53,sa-16,Developer-provided Training
+800-53,sa-17,Developer Security and Privacy Architecture and Design
+800-53,sa-18,Tamper Resistance and Detection
+800-53,sa-19,Component Authenticity
+800-53,sa-20,Customized Development of Critical Components
+800-53,sa-21,Developer Screening
+800-53,sa-22,Unsupported System Components
+800-53,sa-23,Specialization
+800-53,sc-1,Policy and Procedures
+800-53,sc-2,Separation of System and User Functionality
+800-53,sc-3,Security Function Isolation
+800-53,sc-4,Information in Shared System Resources
+800-53,sc-5,Denial-of-service Protection
+800-53,sc-6,Resource Availability
+800-53,sc-7,Boundary Protection
+800-53,sc-8,Transmission Confidentiality and Integrity
+800-53,sc-9,Transmission Confidentiality
+800-53,sc-10,Network Disconnect
+800-53,sc-11,Trusted Path
+800-53,sc-12,Cryptographic Key Establishment and Management
+800-53,sc-13,Cryptographic Protection
+800-53,sc-14,Public Access Protections
+800-53,sc-15,Collaborative Computing Devices and Applications
+800-53,sc-16,Transmission of Security and Privacy Attributes
+800-53,sc-17,Public Key Infrastructure Certificates
+800-53,sc-18,Mobile Code
+800-53,sc-19,Voice Over Internet Protocol
+800-53,sc-20,Secure Name/Address Resolution Service (Authoritative Source)
+800-53,sc-21,Secure Name/Address Resolution Service (Recursive or Caching Resolver)
+800-53,sc-22,Architecture and Provisioning for Name/Address Resolution Service
+800-53,sc-23,Session Authenticity
+800-53,sc-24,Fail in Known State
+800-53,sc-25,Thin Nodes
+800-53,sc-26,Decoys
+800-53,sc-27,Platform-independent Applications
+800-53,sc-28,Protection of Information at Rest
+800-53,sc-29,Heterogeneity
+800-53,sc-30,Concealment and Misdirection
+800-53,sc-31,Covert Channel Analysis
+800-53,sc-32,System Partitioning
+800-53,sc-33,Transmission Preparation Integrity
+800-53,sc-34,Non-modifiable Executable Programs
+800-53,sc-35,External Malicious Code Identification
+800-53,sc-36,Distributed Processing and Storage
+800-53,sc-37,Out-of-band Channels
+800-53,sc-38,Operations Security
+800-53,sc-39,Process Isolation
+800-53,sc-40,Wireless Link Protection
+800-53,sc-41,Port and I/O Device Access
+800-53,sc-42,Sensor Capability and Data
+800-53,sc-43,Usage Restrictions
+800-53,sc-44,Detonation Chambers
+800-53,sc-45,System Time Synchronization
+800-53,sc-46,Cross Domain Policy Enforcement
+800-53,sc-47,Alternate Communications Paths
+800-53,sc-48,Sensor Relocation
+800-53,sc-49,Hardware-enforced Separation and Policy Enforcement
+800-53,sc-50,Software-enforced Separation and Policy Enforcement
+800-53,sc-51,Hardware-based Protection
+800-53,si-1,Policy and Procedures
+800-53,si-2,Flaw Remediation
+800-53,si-3,Malicious Code Protection
+800-53,si-4,System Monitoring
+800-53,si-5,"Security Alerts, Advisories, and Directives"
+800-53,si-6,Security and Privacy Function Verification
+800-53,si-7,"Software, Firmware, and Information Integrity"
+800-53,si-8,Spam Protection
+800-53,si-9,Information Input Restrictions
+800-53,si-10,Information Input Validation
+800-53,si-11,Error Handling
+800-53,si-12,Information Management and Retention
+800-53,si-13,Predictable Failure Prevention
+800-53,si-14,Non-persistence
+800-53,si-15,Information Output Filtering
+800-53,si-16,Memory Protection
+800-53,si-17,Fail-safe Procedures
+800-53,si-18,Personally Identifiable Information Quality Operations
+800-53,si-19,De-identification
+800-53,si-20,Tainting
+800-53,si-21,Information Refresh
+800-53,si-22,Information Diversity
+800-53,si-23,Information Fragmentation
+800-53,sr-1,Policy and Procedures
+800-53,sr-2,Supply Chain Risk Management Plan
+800-53,sr-3,Supply Chain Controls and Processes
+800-53,sr-4,Provenance
+800-53,sr-5,"Acquisition Strategies, Tools, and Methods"
+800-53,sr-6,Supplier Assessments and Reviews
+800-53,sr-7,Supply Chain Operations Security
+800-53,sr-8,Notification Agreements
+800-53,sr-9,Tamper Resistance and Detection
+800-53,sr-10,Inspection of Systems or Components
+800-53,sr-11,Component Authenticity
+800-53,sr-12,Component Disposal
+800-171,3.1.1,"Limit system access to authorized users, processes acting on behalf of authorized users, and devices (including other systems)."
+800-171,3.1.2,Limit system access to the types of transactions and functions that authorized users are permitted to execute.
+800-171,3.1.3,Control the flow of CUI in accordance with approved authorizations.
+800-171,3.1.4,Separate the duties of individuals to reduce the risk of malevolent activity without collusion.
+800-171,3.1.5,"Employ the principle of least privilege, including for specific security functions and privileged accounts."
+800-171,3.1.6,Use non-privileged accounts or roles when accessing non-security functions.
+800-171,3.1.7,Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.
+800-171,3.1.8,Limit unsuccessful logon attempts.
+800-171,3.1.9,Provide privacy and security notices consistent with applicable CUI rules.
+800-171,3.1.10,Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity.
+800-171,3.1.11,Terminate (automatically) a user session after a defined condition.
+800-171,3.1.12,Monitor and control remote access sessions.
+800-171,3.1.13,Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.
+800-171,3.1.14,Route remote access via managed access control points.
+800-171,3.1.15,Authorize remote execution of privileged commands and remote access to security- relevant information.
+800-171,3.1.16,Authorize wireless access prior to allowing such connections.
+800-171,3.1.17,Protect wireless access using authentication and encryption.
+800-171,3.1.18,Control connection of mobile devices.
+800-171,3.1.19,Encrypt CUI on mobile devices and mobile computing platforms
+800-171,3.1.20,Verify and control/limit connections to and use of external systems.
+800-171,3.1.21,Limit use of portable storage devices on external systems.
+800-171,3.1.22,Control CUI posted or processed on publicly accessible systems.
+800-171, 3.2.1 ,"Ensure that managers, systems administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems."
+800-171,3.2.2,Ensure that personnel are trained to carry out their assigned information security- related duties and responsibilities.
+800-171,3.2.3,Provide security awareness training on recognizing and reporting potential indicators of insider threat.
+800-171,3.3.1,"Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity."
+800-171,3.3.2,Ensure that the actions of individual system users can be uniquely traced to those users so they can be held accountable for their actions.
+800-171,3.3.3,Review and update logged events.
+800-171,3.3.4,Alert in the event of an audit logging process failure.
+800-171,3.3.5,"Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity."
+800-171,3.3.6,Provide audit record reduction and report generation to support on-demand analysis and reporting.
+800-171,3.3.7,Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.
+800-171,3.3.8,"Protect audit information and audit logging tools from unauthorized access, modification, and deletion."
+800-171,3.3.9,Limit management of audit logging functionality to a subset of privileged users.
+800-171,3.4.1,"Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles."
+800-171,3.4.2,Establish and enforce security configuration settings for information technology products employed in organizational systems.
+800-171,3.4.3,"Track, review, approve or disapprove, and log changes to organizational systems."
+800-171,3.4.4,Analyze the security impact of changes prior to implementation.
+800-171,3.4.5,"Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems."
+800-171,3.4.6,Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.
+800-171,3.4.7,"Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services."
+800-171,3.4.8,"Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software."
+800-171,3.4.9,Control and monitor user-installed software.
+800-171,3.5.1,"Identify system users, processes acting on behalf of users, and devices."
+800-171,3.5.2,"Authenticate (or verify) the identities of users, processes, or devices, as a prerequisite to allowing access to organizational systems."
+800-171,3.5.3,Use multifactor authentication (MFA) for local and network access to privileged accounts and for network access to non- privileged accounts.
+800-171,3.5.4,Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.
+800-171,3.5.5,Prevent reuse of identifiers for a defined period.
+800-171,3.5.6,Disable identifiers after a defined period of inactivity.
+800-171,3.5.7,Enforce a minimum password complexity and change of characters when new passwords are created.
+800-171,3.5.8,Prohibit password reuse for a specified number of generations.
+800-171,3.5.9,Allow temporary password use for system logons with an immediate change to a permanent password.
+800-171,3.5.10,Store and transmit only cryptographically- protected passwords.
+800-171,3.5.11,Obscure feedback of authentication information.
+800-171,3.6.1,"Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities."
+800-171,3.6.2,"Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization."
+800-171,3.6.3,Test the organizational incident response capability.
+800-171,3.7.1,Perform maintenance on organizational systems.
+800-171,3.7.2,"Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance."
+800-171,3.7.3,Ensure equipment removed for off-site maintenance is sanitized of any CUI.
+800-171,3.7.4,Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.
+800-171,3.7.5,Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.
+800-171,3.7.6,Supervise the maintenance activities of maintenance personnel without required access authorization.
+800-171,3.8.1,"Protect (i.e., physically control and securely store) system media containing CUI, both paper and digital."
+800-171,3.8.2,Limit access to CUI on system media to authorized users.
+800-171,3.8.3,Sanitize or destroy system media containing CUI before disposal or release for reuse.
+800-171,3.8.4,Mark media with necessary CUI markings and distribution limitations.
+800-171,3.8.5,Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.
+800-171,3.8.6,Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.
+800-171,3.8.7,Control the use of removable media on system components.
+800-171,3.8.8,Prohibit the use of portable storage devices when such devices have no identifiable owner.
+800-171,3.8.9,Protect the confidentiality of backup CUI at storage locations.
+800-171,3.9.1,Screen individuals prior to authorizing access to organizational systems containing CUI.
+800-171,3.9.2,Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.
+800-171,3.10.1,"Limit physical access to organizational systems, equipment, and the respective operating environments to authorized individuals."
+800-171,3.10.2,Protect and monitor the physical facility and support infrastructure for organizational systems.
+800-171,3.10.3,Escort visitors and monitor visitor activity.
+800-171,3.10.4,Maintain audit logs of physical access.
+800-171,3.10.5,Control and manage physical access devices.
+800-171,3.10.6,Enforce safeguarding measures for CUI at alternate work sites.
+800-171,3.11.1,"Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI."
+800-171,3.11.2,Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.
+800-171,3.11.3,Remediate vulnerabilities in accordance with risk assessments.
+800-171,3.12.1,Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.
+800-171,3.12.2,Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.
+800-171,3.12.3,Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.
+800-171,3.12.4,"Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems."
+800-171,3.13.1,"Monitor, control, and protect communications (i.e., information transmitted or received by organizational systems) at the external boundaries and key internal boundaries of organizational systems."
+800-171,3.13.2,"Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems."
+800-171,3.13.3,Separate user functionality from system management functionality.
+800-171,3.13.4,Prevent unauthorized and unintended information transfer via shared system resources.
+800-171,3.13.5,Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.
+800-171,3.13.6,"Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception)."
+800-171,3.13.7,"Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling)."
+800-171,3.13.8,Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.
+800-171,3.13.9,Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.
+800-171,3.13.10,Establish and manage cryptographic keys for cryptography employed in organizational systems.
+800-171,3.13.11,Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.
+800-171,3.13.12,Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.
+800-171,3.13.13,Control and monitor the use of mobile code.
+800-171,3.13.14,Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.
+800-171,3.13.15,Protect the authenticity of communications sessions.
+800-171,3.13.16,Protect the confidentiality of CUI at rest.
+800-171,3.14.1,"Identify, report, and correct system flaws in a timely manner."
+800-171,3.14.2,Provide protection from malicious code at designated locations within organizational systems.
+800-171,3.14.3,Monitor system security alerts and advisories and take action in response.
+800-171,3.14.4,Update malicious code protection mechanisms when new releases are available.
+800-171,3.14.5,"Perform periodic scans of organizational systems and real-time scans of files from external sources as files are downloaded, opened, or executed."
+800-171,3.14.6,"Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks."
+800-171,3.14.7,Identify unauthorized use of organizational systems

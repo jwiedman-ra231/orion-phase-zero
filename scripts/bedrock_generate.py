@@ -18,7 +18,7 @@ def generate(control_text: str, odv: dict, sys_desc: str) -> str:
 
     body = {
         "anthropic_version": "bedrock-2023-05-31",
-        "max_tokens": 512,
+        "max_tokens": 700,
         "messages": [
             {
                 "role": "user",

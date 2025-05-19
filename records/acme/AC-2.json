@@ -1,0 +1,11 @@
+{
+  "client_id": "acme",
+  "project_id": "proj-001",
+  "control_id": "AC-2",
+  "odv": {
+    "review_period": "30"
+  },
+  "final_text": "We implement account management controls for our SaaS application hosted on AWS GovCloud through a combination of technical and administrative measures.\n\nTechnically, we leverage AWS Identity and Access Management (IAM) to centrally manage user accounts, roles, and permissions. IAM allows us to create and maintain user accounts with appropriate access levels based on the principles of least privilege and separation of duties. We enforce multi-factor authentication (MFA) for all user accounts, including those with privileged access.\n\nWe have automated processes in place to disable inactive accounts after a defined period of inactivity and to remove unnecessary accounts promptly. Additionally, we conduct user access reviews every 30 days to verify the continued need for existing accounts and their associated permissions.\n\nAdministratively, we maintain formal account management procedures that govern the lifecycle of user accounts, from creation and modification to termination. These procedures include robust identity verification and approval processes for new account requests, as well as regular user access reviews.\n\nWe provide security awareness training to all personnel, emphasizing the importance of protecting account credentials and reporting any suspected account compromises or unauthorized access attempts. Our incident response plan includes specific procedures for handling account-related security incidents.\n\nFurthermore, we maintain detailed audit logs of all account management activities, including account creation, modification, and termination events. These logs are regularly reviewed for anomalies and retained for a defined period to support forensic investigations if needed.",
+  "prompt_used": "prompt-sonnet-v1",
+  "timestamp_utc": "2025-05-19T10:06:59"
+}

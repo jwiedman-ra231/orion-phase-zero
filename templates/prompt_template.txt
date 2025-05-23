@@ -1,0 +1,24 @@
+You are drafting a System Security Plan control implementation for a client.
+
+Control statement:
+"""
+{{ control_statement }}
+"""
+
+Context (shortened from NIST discussion):
+{{ context_blurb }}
+
+{% if evidence_list %}
+Assessment evidence checklist (include in implementation):
+{% for bullet in evidence_list %}
+– {{ bullet }}
+{% endfor %}
+{% endif %}
+
+System description:
+{{ system_description }}
+
+Organizationally-defined values (ODVs):
+{{ odv_json }}
+
+Write <250 words, first-person singular (“We…”), concrete implementation details only.

@@ -1,0 +1,15 @@
+We maintain a System Security Plan (SSP) that outlines the account types permitted and prohibited within our SaaS solution hosted on AWS GovCloud. Our system leverages Okta for Single Sign-On (SSO) and a Windows bastion for administrative access.
+
+The following account types are permitted:
+
+1. Standard User Accounts: Provisioned through Okta and mapped to specific roles within the application, granting access based on the principle of least privilege.
+2. Privileged Accounts: Restricted to authorized personnel for administrative tasks, such as system maintenance and configuration changes. These accounts are managed through a separate Privileged Access Management (PAM) solution and subject to stringent controls, including multi-factor authentication and session recording.
+3. Service Accounts: Dedicated accounts for system services and automated processes, with limited permissions tailored to their specific functions.
+
+The following account types are explicitly prohibited:
+
+1. Default or built-in accounts: All default accounts are disabled or renamed to mitigate potential misuse.
+2. Shared accounts: Each user must have a unique account to maintain accountability and audit trails.
+3. Generic or unassociated accounts: All accounts must be associated with a specific individual or service.
+
+We review and validate the account types and their configurations every 30 days to ensure compliance with our security policies and industry best practices. Any deviations or unauthorized account types are promptly addressed and remediated.
